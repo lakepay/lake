@@ -57,9 +57,9 @@ public:
      */
     enum Unit
     {
-        DASH,
-        mDASH,
-        uDASH,
+        LAKE,
+        mLAKE,
+        uLAKE,
         duffs
     };
 

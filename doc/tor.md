@@ -1,4 +1,4 @@
-TOR SUPPORT IN DASH CORE
+TOR SUPPORT IN LAKE CORE
 =======================
 
 It is possible to run Dash Core as a Tor hidden service, and connect to such services.
