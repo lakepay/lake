@@ -1,4 +1,4 @@
-// Copyright (c) 2014-2017 The Dash Core developers
+// Copyright (c) 2014-2017 The Lake Core developers
 
 /*
  * FIELDS AND CLASSIFICATION
@@ -45,7 +45,7 @@
  * =========================
  *
  *   // network
- *   CDashNetwork lvl, network-type, network-status, network-error, milestone-status*
+ *   CLakeNetwork lvl, network-type, network-status, network-error, milestone-status*
  *   CCategory lvl, category-type, status, status-error
  *   CNetworkGlobalVariable lvl, global-type, status, status-error
  *   // base: actor
@@ -130,7 +130,7 @@ public:
 };
 
 // // root node
-class CDashNetwork : public CGovernanceObject
+class CLakeNetwork : public CGovernanceObject
 {
 private:
     std::string strName;
@@ -138,7 +138,7 @@ private:
 
 
 public:
-    CDashNetwork(UniValue objIn)
+    CLakeNetwork(UniValue objIn)
     {
         strName = objIn["name"].get_str();
         strURL = objIn["name"].get_str();
@@ -174,9 +174,9 @@ public:
 
 };
 
-// // can be under: DashNetwork
+// // can be under: LakeNetwork
 // //   -- signature requirements : Key1(User)
-// class CDashNetworkVariable : public CGovernanceObject
+// class CLakeNetworkVariable : public CGovernanceObject
 // {
 // private:
 
@@ -279,7 +279,7 @@ public:
 //     // isRootCategory()
 //     // {
 //     //     // root categories won't have categories as parents
-//     //     return (IsType() == DashNetwork);
+//     //     return (IsType() == LakeNetwork);
 //     // }
 
 //     // isSubcategoryOf(std::string strParentName)

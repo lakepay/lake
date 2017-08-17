@@ -4,15 +4,15 @@
 
 	* means the category has an associated class
 	
-	CDashNetwork: LAKE NETWORK (ROOT)
+	CLakeNetwork: LAKE NETWORK (ROOT)
 	has:
 		vector<CNetworkVariable> vecNetworkVariables;
-		vector<CDashProject> vecProjects;
+		vector<CLakeProject> vecProjects;
 		vector<CGovernanceObject> vecProposals;
 		vector<CBudgetContract> vecContracts;
 		vector<CBudgetUsers> vecUsers;
 
-	CDashProject:
+	CLakeProject:
 	has:
 		name
 		employees

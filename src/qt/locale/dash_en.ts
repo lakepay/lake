@@ -78,13 +78,13 @@
     </message>
     <message>
         <location line="+7"/>
-        <source>These are your Dash addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>These are your Dash addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
+        <source>These are your Lake addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>These are your Lake addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
     </message>
     <message>
         <location line="+4"/>
-        <source>These are your Dash addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>These are your Dash addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</translation>
+        <source>These are your Lake addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>These are your Lake addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -235,8 +235,8 @@
     </message>
     <message>
         <location line="+57"/>
-        <source>Dash Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your dashs from being stolen by malware infecting your computer.</source>
-        <translation>Dash Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your dashs from being stolen by malware infecting your computer.</translation>
+        <source>Lake Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your dashs from being stolen by malware infecting your computer.</source>
+        <translation>Lake Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your dashs from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -309,8 +309,8 @@
     <message>
         <location filename="../bitcoingui.cpp" line="+127"/>
         <location line="+919"/>
-        <source>Dash Core</source>
-        <translation>Dash Core</translation>
+        <source>Lake Core</source>
+        <translation>Lake Core</translation>
     </message>
     <message>
         <location line="-910"/>
@@ -339,8 +339,8 @@
     </message>
     <message>
         <location line="+1"/>
-        <source>Send coins to a Dash address</source>
-        <translation>Send coins to a Dash address</translation>
+        <source>Send coins to a Lake address</source>
+        <translation>Send coins to a Lake address</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -384,13 +384,13 @@
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;About Dash Core</source>
-        <translation>&amp;About Dash Core</translation>
+        <source>&amp;About Lake Core</source>
+        <translation>&amp;About Lake Core</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about Dash Core</source>
-        <translation>Show information about Dash Core</translation>
+        <source>Show information about Lake Core</source>
+        <translation>Show information about Lake Core</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -469,8 +469,8 @@
     </message>
     <message>
         <location line="+1"/>
-        <source>Sign messages with your Dash addresses to prove you own them</source>
-        <translation>Sign messages with your Dash addresses to prove you own them</translation>
+        <source>Sign messages with your Lake addresses to prove you own them</source>
+        <translation>Sign messages with your Lake addresses to prove you own them</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -479,8 +479,8 @@
     </message>
     <message>
         <location line="+1"/>
-        <source>Verify messages to ensure they were signed with specified Dash addresses</source>
-        <translation>Verify messages to ensure they were signed with specified Dash addresses</translation>
+        <source>Verify messages to ensure they were signed with specified Lake addresses</source>
+        <translation>Verify messages to ensure they were signed with specified Lake addresses</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -584,8 +584,8 @@
     </message>
     <message>
         <location line="+267"/>
-        <source>Dash Core client</source>
-        <translation>Dash Core client</translation>
+        <source>Lake Core client</source>
+        <translation>Lake Core client</translation>
     </message>
     <message>
         <location line="+334"/>
@@ -619,8 +619,8 @@
     </message>
     <message numerus="yes">
         <location line="+347"/>
-        <source>%n active connection(s) to Dash network</source>
-        <translation><numerusform>%n active connection to Dash network</numerusform><numerusform>%n active connections to Dash network</numerusform></translation>
+        <source>%n active connection(s) to Lake network</source>
+        <translation><numerusform>%n active connection to Lake network</numerusform><numerusform>%n active connections to Lake network</numerusform></translation>
     </message>
     <message>
         <location line="+15"/>
@@ -654,8 +654,8 @@
     </message>
     <message>
         <location line="-567"/>
-        <source>Modify configuration options for Dash Core</source>
-        <translation>Modify configuration options for Dash Core</translation>
+        <source>Modify configuration options for Lake Core</source>
+        <translation>Modify configuration options for Lake Core</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -674,8 +674,8 @@
     </message>
     <message>
         <location line="+20"/>
-        <source>Show the Dash Core help message to get a list with possible Dash Core command-line options</source>
-        <translation>Show the Dash Core help message to get a list with possible Dash Core command-line options</translation>
+        <source>Show the Lake Core help message to get a list with possible Lake Core command-line options</source>
+        <translation>Show the Lake Core help message to get a list with possible Lake Core command-line options</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -1206,18 +1206,18 @@
     </message>
     <message>
         <location line="-29"/>
-        <source>PrivateSend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Dash&apos;s configuration screen.</source>
-        <translation>PrivateSend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Dash&apos;s configuration screen.</translation>
+        <source>PrivateSend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Lake&apos;s configuration screen.</source>
+        <translation>PrivateSend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Lake&apos;s configuration screen.</translation>
     </message>
     <message>
         <location line="+15"/>
-        <source>PrivateSend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Dash&apos;s configuration screen.</source>
-        <translation>PrivateSend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Dash&apos;s configuration screen.</translation>
+        <source>PrivateSend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Lake&apos;s configuration screen.</source>
+        <translation>PrivateSend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Lake&apos;s configuration screen.</translation>
     </message>
     <message>
         <location line="+15"/>
-        <source>PrivateSend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Dash&apos;s configuration screen.</source>
-        <translation>PrivateSend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Dash&apos;s configuration screen.</translation>
+        <source>PrivateSend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Lake&apos;s configuration screen.</source>
+        <translation>PrivateSend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Lake&apos;s configuration screen.</translation>
     </message>
 </context>
 <context>
@@ -1269,8 +1269,8 @@
     </message>
     <message>
         <location line="+71"/>
-        <source>The entered address &quot;%1&quot; is not a valid Dash address.</source>
-        <translation>The entered address &quot;%1&quot; is not a valid Dash address.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Lake address.</source>
+        <translation>The entered address &quot;%1&quot; is not a valid Lake address.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1320,8 +1320,8 @@
     <name>HelpMessageDialog</name>
     <message>
         <location filename="../utilitydialog.cpp" line="+37"/>
-        <source>Dash Core</source>
-        <translation>Dash Core</translation>
+        <source>Lake Core</source>
+        <translation>Lake Core</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -1336,8 +1336,8 @@
     </message>
     <message>
         <location line="+5"/>
-        <source>About Dash Core</source>
-        <translation>About Dash Core</translation>
+        <source>About Lake Core</source>
+        <translation>About Lake Core</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -1381,8 +1381,8 @@
     </message>
     <message>
         <location line="+4"/>
-        <source>&lt;h3&gt;PrivateSend Basics&lt;/h3&gt; PrivateSend gives you true financial privacy by obscuring the origins of your funds. All the Dash in your wallet is comprised of different &quot;inputs&quot; which you can think of as separate, discrete coins.&lt;br&gt; PrivateSend uses an innovative process to mix your inputs with the inputs of two other people, without having your coins ever leave your wallet. You retain control of your money at all times..&lt;hr&gt; &lt;b&gt;The PrivateSend process works like this:&lt;/b&gt;&lt;ol type=&quot;1&quot;&gt; &lt;li&gt;PrivateSend begins by breaking your transaction inputs down into standard denominations. These denominations are 0.01 LAKE, 0.1 LAKE, 1 LAKE and 10 LAKE -- sort of like the paper money you use every day.&lt;/li&gt; &lt;li&gt;Your wallet then sends requests to specially configured software nodes on the network, called &quot;masternodes.&quot; These masternodes are informed then that you are interested in mixing a certain denomination. No identifiable information is sent to the masternodes, so they never know &quot;who&quot; you are.&lt;/li&gt; &lt;li&gt;When two other people send similar messages, indicating that they wish to mix the same denomination, a mixing session begins. The masternode mixes up the inputs and instructs all three users&apos; wallets to pay the now-transformed input back to themselves. Your wallet pays that denomination directly to itself, but in a different address (called a change address).&lt;/li&gt; &lt;li&gt;In order to fully obscure your funds, your wallet must repeat this process a number of times with each denomination. Each time the process is completed, it&apos;s called a &quot;round.&quot; Each round of PrivateSend makes it exponentially more difficult to determine where your funds originated.&lt;/li&gt; &lt;li&gt;This mixing process happens in the background without any intervention on your part. When you wish to make a transaction, your funds will already be anonymized. No additional waiting is required.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt;&lt;b&gt;IMPORTANT:&lt;/b&gt; Your wallet only contains 1000 of these &quot;change addresses.&quot; Every time a mixing event happens, up to 9 of your addresses are used up. This means those 1000 addresses last for about 100 mixing events. When 900 of them are used, your wallet must create more addresses. It can only do this, however, if you have automatic backups enabled.&lt;br&gt; Consequently, users who have backups disabled will also have PrivateSend disabled. &lt;hr&gt;For more info see &lt;a href=&quot;https://lakepay.atlassian.net/wiki/display/DOC/PrivateSend&quot;&gt;https://dashpay.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt;         </source>
-        <translation>&lt;h3&gt;PrivateSend Basics&lt;/h3&gt; PrivateSend gives you true financial privacy by obscuring the origins of your funds. All the Dash in your wallet is comprised of different &quot;inputs&quot; which you can think of as separate, discrete coins.&lt;br&gt; PrivateSend uses an innovative process to mix your inputs with the inputs of two other people, without having your coins ever leave your wallet. You retain control of your money at all times..&lt;hr&gt; &lt;b&gt;The PrivateSend process works like this:&lt;/b&gt;&lt;ol type=&quot;1&quot;&gt; &lt;li&gt;PrivateSend begins by breaking your transaction inputs down into standard denominations. These denominations are 0.01 LAKE, 0.1 LAKE, 1 LAKE and 10 LAKE -- sort of like the paper money you use every day.&lt;/li&gt; &lt;li&gt;Your wallet then sends requests to specially configured software nodes on the network, called &quot;masternodes.&quot; These masternodes are informed then that you are interested in mixing a certain denomination. No identifiable information is sent to the masternodes, so they never know &quot;who&quot; you are.&lt;/li&gt; &lt;li&gt;When two other people send similar messages, indicating that they wish to mix the same denomination, a mixing session begins. The masternode mixes up the inputs and instructs all three users&apos; wallets to pay the now-transformed input back to themselves. Your wallet pays that denomination directly to itself, but in a different address (called a change address).&lt;/li&gt; &lt;li&gt;In order to fully obscure your funds, your wallet must repeat this process a number of times with each denomination. Each time the process is completed, it&apos;s called a &quot;round.&quot; Each round of PrivateSend makes it exponentially more difficult to determine where your funds originated.&lt;/li&gt; &lt;li&gt;This mixing process happens in the background without any intervention on your part. When you wish to make a transaction, your funds will already be anonymized. No additional waiting is required.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt;&lt;b&gt;IMPORTANT:&lt;/b&gt; Your wallet only contains 1000 of these &quot;change addresses.&quot; Every time a mixing event happens, up to 9 of your addresses are used up. This means those 1000 addresses last for about 100 mixing events. When 900 of them are used, your wallet must create more addresses. It can only do this, however, if you have automatic backups enabled.&lt;br&gt; Consequently, users who have backups disabled will also have PrivateSend disabled. &lt;hr&gt;For more info see &lt;a href=&quot;https://lakepay.atlassian.net/wiki/display/DOC/PrivateSend&quot;&gt;https://dashpay.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt;         </translation>
+        <source>&lt;h3&gt;PrivateSend Basics&lt;/h3&gt; PrivateSend gives you true financial privacy by obscuring the origins of your funds. All the Lake in your wallet is comprised of different &quot;inputs&quot; which you can think of as separate, discrete coins.&lt;br&gt; PrivateSend uses an innovative process to mix your inputs with the inputs of two other people, without having your coins ever leave your wallet. You retain control of your money at all times..&lt;hr&gt; &lt;b&gt;The PrivateSend process works like this:&lt;/b&gt;&lt;ol type=&quot;1&quot;&gt; &lt;li&gt;PrivateSend begins by breaking your transaction inputs down into standard denominations. These denominations are 0.01 LAKE, 0.1 LAKE, 1 LAKE and 10 LAKE -- sort of like the paper money you use every day.&lt;/li&gt; &lt;li&gt;Your wallet then sends requests to specially configured software nodes on the network, called &quot;masternodes.&quot; These masternodes are informed then that you are interested in mixing a certain denomination. No identifiable information is sent to the masternodes, so they never know &quot;who&quot; you are.&lt;/li&gt; &lt;li&gt;When two other people send similar messages, indicating that they wish to mix the same denomination, a mixing session begins. The masternode mixes up the inputs and instructs all three users&apos; wallets to pay the now-transformed input back to themselves. Your wallet pays that denomination directly to itself, but in a different address (called a change address).&lt;/li&gt; &lt;li&gt;In order to fully obscure your funds, your wallet must repeat this process a number of times with each denomination. Each time the process is completed, it&apos;s called a &quot;round.&quot; Each round of PrivateSend makes it exponentially more difficult to determine where your funds originated.&lt;/li&gt; &lt;li&gt;This mixing process happens in the background without any intervention on your part. When you wish to make a transaction, your funds will already be anonymized. No additional waiting is required.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt;&lt;b&gt;IMPORTANT:&lt;/b&gt; Your wallet only contains 1000 of these &quot;change addresses.&quot; Every time a mixing event happens, up to 9 of your addresses are used up. This means those 1000 addresses last for about 100 mixing events. When 900 of them are used, your wallet must create more addresses. It can only do this, however, if you have automatic backups enabled.&lt;br&gt; Consequently, users who have backups disabled will also have PrivateSend disabled. &lt;hr&gt;For more info see &lt;a href=&quot;https://lakepay.atlassian.net/wiki/display/DOC/PrivateSend&quot;&gt;https://dashpay.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt;         </source>
+        <translation>&lt;h3&gt;PrivateSend Basics&lt;/h3&gt; PrivateSend gives you true financial privacy by obscuring the origins of your funds. All the Lake in your wallet is comprised of different &quot;inputs&quot; which you can think of as separate, discrete coins.&lt;br&gt; PrivateSend uses an innovative process to mix your inputs with the inputs of two other people, without having your coins ever leave your wallet. You retain control of your money at all times..&lt;hr&gt; &lt;b&gt;The PrivateSend process works like this:&lt;/b&gt;&lt;ol type=&quot;1&quot;&gt; &lt;li&gt;PrivateSend begins by breaking your transaction inputs down into standard denominations. These denominations are 0.01 LAKE, 0.1 LAKE, 1 LAKE and 10 LAKE -- sort of like the paper money you use every day.&lt;/li&gt; &lt;li&gt;Your wallet then sends requests to specially configured software nodes on the network, called &quot;masternodes.&quot; These masternodes are informed then that you are interested in mixing a certain denomination. No identifiable information is sent to the masternodes, so they never know &quot;who&quot; you are.&lt;/li&gt; &lt;li&gt;When two other people send similar messages, indicating that they wish to mix the same denomination, a mixing session begins. The masternode mixes up the inputs and instructs all three users&apos; wallets to pay the now-transformed input back to themselves. Your wallet pays that denomination directly to itself, but in a different address (called a change address).&lt;/li&gt; &lt;li&gt;In order to fully obscure your funds, your wallet must repeat this process a number of times with each denomination. Each time the process is completed, it&apos;s called a &quot;round.&quot; Each round of PrivateSend makes it exponentially more difficult to determine where your funds originated.&lt;/li&gt; &lt;li&gt;This mixing process happens in the background without any intervention on your part. When you wish to make a transaction, your funds will already be anonymized. No additional waiting is required.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt;&lt;b&gt;IMPORTANT:&lt;/b&gt; Your wallet only contains 1000 of these &quot;change addresses.&quot; Every time a mixing event happens, up to 9 of your addresses are used up. This means those 1000 addresses last for about 100 mixing events. When 900 of them are used, your wallet must create more addresses. It can only do this, however, if you have automatic backups enabled.&lt;br&gt; Consequently, users who have backups disabled will also have PrivateSend disabled. &lt;hr&gt;For more info see &lt;a href=&quot;https://lakepay.atlassian.net/wiki/display/DOC/PrivateSend&quot;&gt;https://dashpay.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt;         </translation>
     </message>
     <message>
         <location line="-50"/>
@@ -1409,18 +1409,18 @@
     </message>
     <message>
         <location line="+9"/>
-        <source>Welcome to Dash Core.</source>
-        <translation>Welcome to Dash Core.</translation>
+        <source>Welcome to Lake Core.</source>
+        <translation>Welcome to Lake Core.</translation>
     </message>
     <message>
         <location line="+26"/>
-        <source>As this is the first time the program is launched, you can choose where Dash Core will store its data.</source>
-        <translation>As this is the first time the program is launched, you can choose where Dash Core will store its data.</translation>
+        <source>As this is the first time the program is launched, you can choose where Lake Core will store its data.</source>
+        <translation>As this is the first time the program is launched, you can choose where Lake Core will store its data.</translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>Dash Core will download and store a copy of the Dash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Dash Core will download and store a copy of the Dash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</translation>
+        <source>Lake Core will download and store a copy of the Lake block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Lake Core will download and store a copy of the Lake block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1434,8 +1434,8 @@
     </message>
     <message>
         <location filename="../intro.cpp" line="+88"/>
-        <source>Dash Core</source>
-        <translation>Dash Core</translation>
+        <source>Lake Core</source>
+        <translation>Lake Core</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1675,8 +1675,8 @@
     </message>
     <message>
         <location line="+155"/>
-        <source>Amount of Dash to keep anonymized</source>
-        <translation>Amount of Dash to keep anonymized</translation>
+        <source>Amount of Lake to keep anonymized</source>
+        <translation>Amount of Lake to keep anonymized</translation>
     </message>
     <message>
         <location line="-119"/>
@@ -1685,13 +1685,13 @@
     </message>
     <message>
         <location line="-104"/>
-        <source>Automatically start Dash Core after logging in to the system.</source>
-        <translation>Automatically start Dash Core after logging in to the system.</translation>
+        <source>Automatically start Lake Core after logging in to the system.</source>
+        <translation>Automatically start Lake Core after logging in to the system.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Dash Core on system login</source>
-        <translation>&amp;Start Dash Core on system login</translation>
+        <source>&amp;Start Lake Core on system login</source>
+        <translation>&amp;Start Lake Core on system login</translation>
     </message>
     <message>
         <location line="+123"/>
@@ -1750,8 +1750,8 @@
     </message>
     <message>
         <location line="+60"/>
-        <source>Automatically open the Dash Core client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the Dash Core client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the Lake Core client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the Lake Core client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1765,8 +1765,8 @@
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Dash network through a SOCKS5 proxy.</source>
-        <translation>Connect to the Dash network through a SOCKS5 proxy.</translation>
+        <source>Connect to the Lake network through a SOCKS5 proxy.</source>
+        <translation>Connect to the Lake network through a SOCKS5 proxy.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1780,8 +1780,8 @@
     </message>
     <message>
         <location line="+45"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Dash Core.</source>
-        <translation>The user interface language can be set here. This setting will take effect after restarting Dash Core.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Lake Core.</source>
+        <translation>The user interface language can be set here. This setting will take effect after restarting Lake Core.</translation>
     </message>
     <message>
         <location line="+99"/>
@@ -1877,8 +1877,8 @@
     </message>
     <message>
         <location line="+25"/>
-        <source>Connect to the Dash network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Connect to the Dash network through a separate SOCKS5 proxy for Tor hidden services.</translation>
+        <source>Connect to the Lake network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Connect to the Lake network through a separate SOCKS5 proxy for Tor hidden services.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2020,8 +2020,8 @@ https://www.transifex.com/projects/p/dash/</translation>
         <location line="+50"/>
         <location line="+355"/>
         <location line="+258"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dash network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Dash network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Lake network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Lake network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-364"/>
@@ -2414,8 +2414,8 @@ https://www.transifex.com/projects/p/dash/</translation>
     </message>
     <message>
         <location line="+8"/>
-        <source>URI cannot be parsed! This can be caused by an invalid Dash address or malformed URI parameters.</source>
-        <translation>URI cannot be parsed! This can be caused by an invalid Dash address or malformed URI parameters.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Lake address or malformed URI parameters.</source>
+        <translation>URI cannot be parsed! This can be caused by an invalid Lake address or malformed URI parameters.</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -2521,8 +2521,8 @@ https://www.transifex.com/projects/p/dash/</translation>
     </message>
     <message>
         <location filename="../guiutil.cpp" line="+119"/>
-        <source>Enter a Dash address (e.g. %1)</source>
-        <translation>Enter a Dash address (e.g. %1)</translation>
+        <source>Enter a Lake address (e.g. %1)</source>
+        <translation>Enter a Lake address (e.g. %1)</translation>
     </message>
     <message>
         <location line="+857"/>
@@ -2722,8 +2722,8 @@ https://www.transifex.com/projects/p/dash/</translation>
     </message>
     <message>
         <location line="+48"/>
-        <source>Open the Dash Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open the Dash Core debug log file from the current data directory. This can take a few seconds for large log files.</translation>
+        <source>Open the Lake Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open the Lake Core debug log file from the current data directory. This can take a few seconds for large log files.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -2990,8 +2990,8 @@ https://www.transifex.com/projects/p/dash/</translation>
     </message>
     <message>
         <location line="+148"/>
-        <source>Welcome to the Dash Core RPC console.</source>
-        <translation>Welcome to the Dash Core RPC console.</translation>
+        <source>Welcome to the Lake Core RPC console.</source>
+        <translation>Welcome to the Lake Core RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3080,8 +3080,8 @@ https://www.transifex.com/projects/p/dash/</translation>
     </message>
     <message>
         <location line="+14"/>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Dash network.</source>
-        <translation>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Dash network.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Lake network.</source>
+        <translation>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Lake network.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3096,8 +3096,8 @@ https://www.transifex.com/projects/p/dash/</translation>
     </message>
     <message>
         <location line="-14"/>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Dash network.</source>
-        <translation>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Dash network.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Lake network.</source>
+        <translation>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Lake network.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -3675,8 +3675,8 @@ https://www.transifex.com/projects/p/dash/</translation>
     </message>
     <message>
         <location line="+229"/>
-        <source>Warning: Invalid Dash address</source>
-        <translation>Warning: Invalid Dash address</translation>
+        <source>Warning: Invalid Lake address</source>
+        <translation>Warning: Invalid Lake address</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -3703,8 +3703,8 @@ https://www.transifex.com/projects/p/dash/</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The Dash address to send the payment to</source>
-        <translation>The Dash address to send the payment to</translation>
+        <source>The Lake address to send the payment to</source>
+        <translation>The Lake address to send the payment to</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -3752,8 +3752,8 @@ https://www.transifex.com/projects/p/dash/</translation>
     </message>
     <message>
         <location line="-1046"/>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive a lower amount of Dash than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation>The fee will be deducted from the amount being sent. The recipient will receive a lower amount of Dash than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</translation>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive a lower amount of Lake than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <translation>The fee will be deducted from the amount being sent. The recipient will receive a lower amount of Lake than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3767,8 +3767,8 @@ https://www.transifex.com/projects/p/dash/</translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>A message that was attached to the dash: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Dash network.</source>
-        <translation>A message that was attached to the dash: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Dash network.</translation>
+        <source>A message that was attached to the dash: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Lake network.</source>
+        <translation>A message that was attached to the dash: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Lake network.</translation>
     </message>
     <message>
         <location line="+433"/>
@@ -3802,8 +3802,8 @@ https://www.transifex.com/projects/p/dash/</translation>
     <name>ShutdownWindow</name>
     <message>
         <location filename="../utilitydialog.cpp" line="+119"/>
-        <source>Dash Core is shutting down...</source>
-        <translation>Dash Core is shutting down...</translation>
+        <source>Lake Core is shutting down...</source>
+        <translation>Lake Core is shutting down...</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3825,13 +3825,13 @@ https://www.transifex.com/projects/p/dash/</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>You can sign messages/agreements with your addresses to prove you can receive Dash sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>You can sign messages/agreements with your addresses to prove you can receive Dash sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</translation>
+        <source>You can sign messages/agreements with your addresses to prove you can receive Lake sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <translation>You can sign messages/agreements with your addresses to prove you can receive Lake sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The Dash address to sign the message with</source>
-        <translation>The Dash address to sign the message with</translation>
+        <source>The Lake address to sign the message with</source>
+        <translation>The Lake address to sign the message with</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -3872,8 +3872,8 @@ https://www.transifex.com/projects/p/dash/</translation>
     </message>
     <message>
         <location line="+17"/>
-        <source>Sign the message to prove you own this Dash address</source>
-        <translation>Sign the message to prove you own this Dash address</translation>
+        <source>Sign the message to prove you own this Lake address</source>
+        <translation>Sign the message to prove you own this Lake address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3903,13 +3903,13 @@ https://www.transifex.com/projects/p/dash/</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The Dash address the message was signed with</source>
-        <translation>The Dash address the message was signed with</translation>
+        <source>The Lake address the message was signed with</source>
+        <translation>The Lake address the message was signed with</translation>
     </message>
     <message>
         <location line="+33"/>
-        <source>Verify the message to ensure it was signed with the specified Dash address</source>
-        <translation>Verify the message to ensure it was signed with the specified Dash address</translation>
+        <source>Verify the message to ensure it was signed with the specified Lake address</source>
+        <translation>Verify the message to ensure it was signed with the specified Lake address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3997,8 +3997,8 @@ https://www.transifex.com/projects/p/dash/</translation>
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+45"/>
-        <source>Dash Core</source>
-        <translation>Dash Core</translation>
+        <source>Lake Core</source>
+        <translation>Lake Core</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4012,8 +4012,8 @@ https://www.transifex.com/projects/p/dash/</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>The Dash Core developers</source>
-        <translation>The Dash Core developers</translation>
+        <source>The Lake Core developers</source>
+        <translation>The Lake Core developers</translation>
     </message>
     <message>
         <location filename="../networkstyle.cpp" line="+21"/>
@@ -4731,8 +4731,8 @@ https://www.transifex.com/projects/p/dash/</translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>Cannot obtain a lock on data directory %s. Dash Core is probably already running.</source>
-        <translation>Cannot obtain a lock on data directory %s. Dash Core is probably already running.</translation>
+        <source>Cannot obtain a lock on data directory %s. Lake Core is probably already running.</source>
+        <translation>Cannot obtain a lock on data directory %s. Lake Core is probably already running.</translation>
     </message>
     <message>
         <location line="+32"/>
@@ -4781,8 +4781,8 @@ https://www.transifex.com/projects/p/dash/</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>Unable to bind to %s on this computer. Dash Core is probably already running.</source>
-        <translation>Unable to bind to %s on this computer. Dash Core is probably already running.</translation>
+        <source>Unable to bind to %s on this computer. Lake Core is probably already running.</source>
+        <translation>Unable to bind to %s on this computer. Lake Core is probably already running.</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -5131,8 +5131,8 @@ https://www.transifex.com/projects/p/dash/</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Copyright (C) 2014-%i The Dash Core Developers</source>
-        <translation>Copyright (C) 2014-%i The Dash Core Developers</translation>
+        <source>Copyright (C) 2014-%i The Lake Core Developers</source>
+        <translation>Copyright (C) 2014-%i The Lake Core Developers</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -5146,8 +5146,8 @@ https://www.transifex.com/projects/p/dash/</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Dash Core</source>
-        <translation>Error loading wallet.dat: Wallet requires newer version of Dash Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Lake Core</source>
+        <translation>Error loading wallet.dat: Wallet requires newer version of Lake Core</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -5201,8 +5201,8 @@ https://www.transifex.com/projects/p/dash/</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Initialization sanity check failed. Dash Core is shutting down.</source>
-        <translation>Initialization sanity check failed. Dash Core is shutting down.</translation>
+        <source>Initialization sanity check failed. Lake Core is shutting down.</source>
+        <translation>Initialization sanity check failed. Lake Core is shutting down.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -5491,8 +5491,8 @@ https://www.transifex.com/projects/p/dash/</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Wallet needed to be rewritten: restart Dash Core to complete</source>
-        <translation>Wallet needed to be rewritten: restart Dash Core to complete</translation>
+        <source>Wallet needed to be rewritten: restart Lake Core to complete</source>
+        <translation>Wallet needed to be rewritten: restart Lake Core to complete</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -5556,8 +5556,8 @@ https://www.transifex.com/projects/p/dash/</translation>
     </message>
     <message>
         <location line="-328"/>
-        <source>Disable all Dash specific functionality (Masternodes, PrivateSend, InstantSend, Governance) (0-1, default: %u)</source>
-        <translation>Disable all Dash specific functionality (Masternodes, PrivateSend, InstantSend, Governance) (0-1, default: %u)</translation>
+        <source>Disable all Lake specific functionality (Masternodes, PrivateSend, InstantSend, Governance) (0-1, default: %u)</source>
+        <translation>Disable all Lake specific functionality (Masternodes, PrivateSend, InstantSend, Governance) (0-1, default: %u)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -5656,8 +5656,8 @@ https://www.transifex.com/projects/p/dash/</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Please check that your computer&apos;s date and time are correct! If your clock is wrong Dash Core will not work properly.</source>
-        <translation>Please check that your computer&apos;s date and time are correct! If your clock is wrong Dash Core will not work properly.</translation>
+        <source>Please check that your computer&apos;s date and time are correct! If your clock is wrong Lake Core will not work properly.</source>
+        <translation>Please check that your computer&apos;s date and time are correct! If your clock is wrong Lake Core will not work properly.</translation>
     </message>
     <message>
         <location line="+3"/>
