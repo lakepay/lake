@@ -78,9 +78,9 @@ static int AppInitRPC(int argc, char* argv[])
         std::string strUsage = _("Lake Core RPC client version") + " " + FormatFullVersion() + "\n";
         if (!mapArgs.count("-version")) {
             strUsage += "\n" + _("Usage:") + "\n" +
-                  "  dash-cli [options] <command> [params]  " + _("Send command to Lake Core") + "\n" +
-                  "  dash-cli [options] help                " + _("List commands") + "\n" +
-                  "  dash-cli [options] help <command>      " + _("Get help for a command") + "\n";
+                  "  lake-cli [options] <command> [params]  " + _("Send command to Lake Core") + "\n" +
+                  "  lake-cli [options] help                " + _("List commands") + "\n" +
+                  "  lake-cli [options] help <command>      " + _("Get help for a command") + "\n";
 
             strUsage += "\n" + HelpMessageCli();
         }

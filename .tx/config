@@ -1,7 +1,7 @@
 [main]
 host = https://www.transifex.com
 
-[dash.qt-translation-012x]
-file_filter = src/qt/locale/dash_<lang>.ts
-source_file = src/qt/locale/dash_en.ts
+[lake.qt-translation-012x]
+file_filter = src/qt/locale/lake_<lang>.ts
+source_file = src/qt/locale/lake_en.ts
 source_lang = en

@@ -1,4 +1,4 @@
-Source: dash
+Source: lake
 Section: utils
 Priority: optional
 Maintainer: Holger Schinzel <holger@dash.org>
@@ -24,11 +24,11 @@ Build-Depends: debhelper,
  libprotobuf-dev, protobuf-compiler,
  python
 Standards-Version: 3.9.2
-Homepage: https://www.dash.org/
+Homepage: https://www.lake.org/
 Vcs-Git: git://github.com/lakepay/lake.git
 Vcs-Browser: https://github.com/lakepay/lake
 
-Package: dashd
+Package: laked
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: peer-to-peer network based digital currency - daemon
@@ -38,10 +38,10 @@ Description: peer-to-peer network based digital currency - daemon
  and issuing money are carried out collectively by the network. Lake Core
  is the name of the open source software which enables the use of this currency.
  .
- This package provides the daemon, dashd, and the CLI tool
- dash-cli to interact with the daemon.
+ This package provides the daemon, laked, and the CLI tool
+ lake-cli to interact with the daemon.
 
-Package: dash-qt
+Package: lake-qt
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: peer-to-peer network based digital currency - Qt GUI
@@ -53,7 +53,7 @@ Description: peer-to-peer network based digital currency - Qt GUI
  .
  This package provides Lake-Qt, a GUI for Lake based on Qt.
 
-Package: dash-tx
+Package: lake-tx
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: peer-to-peer digital currency - standalone transaction tool
@@ -63,6 +63,6 @@ Description: peer-to-peer digital currency - standalone transaction tool
  and issuing money are carried out collectively by the network. Lake Core
  is the name of the open source software which enables the use of this currency.
  .
- This package provides dash-tx, a command-line transaction creation
- tool which can be used without a dash daemon.  Some means of
+ This package provides lake-tx, a command-line transaction creation
+ tool which can be used without a lake daemon.  Some means of
  exchanging minimal transaction data with peers is still required.

@@ -1,2 +1,2 @@
-usr/local/bin/dashd usr/bin
-usr/local/bin/dash-cli usr/bin
+usr/local/bin/laked usr/bin
+usr/local/bin/lake-cli usr/bin

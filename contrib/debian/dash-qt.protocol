@@ -1,6 +1,6 @@
 [Protocol]
-exec=dash-qt '%u'
-protocol=dash
+exec=lake-qt '%u'
+protocol=lake
 input=none
 output=none
 helper=true

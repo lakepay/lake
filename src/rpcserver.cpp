@@ -343,18 +343,18 @@ static const CRPCCommand vRPCCommands[] =
 #endif
 
     /* Lake features */
-    { "dash",               "masternode",             &masternode,             true  },
-    { "dash",               "masternodelist",         &masternodelist,         true  },
-    { "dash",               "masternodebroadcast",    &masternodebroadcast,    true  },
-    { "dash",               "gobject",                &gobject,                true  },
-    { "dash",               "getgovernanceinfo",      &getgovernanceinfo,      true  },
-    { "dash",               "getsuperblockbudget",    &getsuperblockbudget,    true  },
-    { "dash",               "voteraw",                &voteraw,                true  },
-    { "dash",               "mnsync",                 &mnsync,                 true  },
-    { "dash",               "spork",                  &spork,                  true  },
-    { "dash",               "getpoolinfo",            &getpoolinfo,            true  },
+    { "lake",               "masternode",             &masternode,             true  },
+    { "lake",               "masternodelist",         &masternodelist,         true  },
+    { "lake",               "masternodebroadcast",    &masternodebroadcast,    true  },
+    { "lake",               "gobject",                &gobject,                true  },
+    { "lake",               "getgovernanceinfo",      &getgovernanceinfo,      true  },
+    { "lake",               "getsuperblockbudget",    &getsuperblockbudget,    true  },
+    { "lake",               "voteraw",                &voteraw,                true  },
+    { "lake",               "mnsync",                 &mnsync,                 true  },
+    { "lake",               "spork",                  &spork,                  true  },
+    { "lake",               "getpoolinfo",            &getpoolinfo,            true  },
 #ifdef ENABLE_WALLET
-    { "dash",               "privatesend",            &privatesend,            false },
+    { "lake",               "privatesend",            &privatesend,            false },
 
     /* Wallet */
     { "wallet",             "keepass",                &keepass,                true },
@@ -577,7 +577,7 @@ std::vector<std::string> CRPCTable::listCommands() const
 
 std::string HelpExampleCli(const std::string& methodname, const std::string& args)
 {
-    return "> dash-cli " + methodname + " " + args + "\n";
+    return "> lake-cli " + methodname + " " + args + "\n";
 }
 
 std::string HelpExampleRpc(const std::string& methodname, const std::string& args)

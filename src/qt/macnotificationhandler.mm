@@ -13,7 +13,7 @@
 - (NSString *)__bundleIdentifier
 {
     if (self == [NSBundle mainBundle]) {
-        return @"org.dash.Lake-Qt";
+        return @"org.lake.Lake-Qt";
     } else {
         return [self __bundleIdentifier];
     }

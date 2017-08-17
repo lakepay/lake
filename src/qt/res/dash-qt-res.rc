@@ -21,10 +21,10 @@ BEGIN
             VALUE "CompanyName",        "Lake"
             VALUE "FileDescription",    "Lake Core (GUI node for Lake)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "dash-qt"
+            VALUE "InternalName",       "lake-qt"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "dash-qt.exe"
+            VALUE "OriginalFilename",   "lake-qt.exe"
             VALUE "ProductName",        "Lake Core"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END

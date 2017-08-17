@@ -1,7 +1,7 @@
 Lake Core 0.12.1
 =====================
 
-This is the official reference wallet for Lake digital currency and comprises the backbone of the Lake peer-to-peer network. You can [download Lake Core](https://www.dash.org/downloads/) or [build it yourself](#building) using the guides below.
+This is the official reference wallet for Lake digital currency and comprises the backbone of the Lake peer-to-peer network. You can [download Lake Core](https://www.lake.org/downloads/) or [build it yourself](#building) using the guides below.
 
 Running
 ---------------------
@@ -16,7 +16,7 @@ Unpack the files into a directory and run:
 
 ### Windows
 
-Unpack the files into a directory, and then run dash-qt.exe.
+Unpack the files into a directory, and then run lake-qt.exe.
 
 ### OS X
 
@@ -27,7 +27,7 @@ Drag Lake-Qt to your applications folder, and then run Lake-Qt.
 * See the [Lake documentation](https://lakepay.atlassian.net/wiki/display/DOC)
 for help and more information.
 * Ask for help on [#lakepay](http://webchat.freenode.net?channels=lakepay) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=lakepay).
-* Ask for help on the [LakeTalk](https://dashtalk.org/) forums.
+* Ask for help on the [LakeTalk](https://laketalk.org/) forums.
 
 Building
 ---------------------
@@ -57,7 +57,7 @@ The Lake Core repo's [root README](/README.md) contains relevant information on 
 - [Dnsseed Policy](dnsseed-policy.md)
 
 ### Resources
-* Discuss on the [LakeTalk](https://dashtalk.org/) forums, in the Development & Technical Discussion board.
+* Discuss on the [LakeTalk](https://laketalk.org/) forums, in the Development & Technical Discussion board.
 * Discuss on [#lakepay](http://webchat.freenode.net/?channels=lakepay) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=lakepay).
 
 ### Miscellaneous

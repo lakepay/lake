@@ -188,8 +188,8 @@
         <translation>Carteira cifrada</translation>
     </message>
     <message>
-        <source>Lake will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your dashs from being stolen by malware infecting your computer.</source>
-        <translation>O cliente Lake irá fechar para finalizar o processo de cifra. Lembre-se que cifrar a sua carteira não consegue proteger totalmente as suas dashs contra roubos feitos por malware presente no seu computador.</translation>
+        <source>Lake will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your lakes from being stolen by malware infecting your computer.</source>
+        <translation>O cliente Lake irá fechar para finalizar o processo de cifra. Lembre-se que cifrar a sua carteira não consegue proteger totalmente as suas lakes contra roubos feitos por malware presente no seu computador.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -263,8 +263,8 @@
         <translation>&amp;Receber</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and dash: URIs)</source>
-        <translation>Solicitar pagamentos (gera códigos QR e dash: URIs)</translation>
+        <source>Request payments (generates QR codes and lake: URIs)</source>
+        <translation>Solicitar pagamentos (gera códigos QR e lake: URIs)</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
@@ -443,8 +443,8 @@
         <translation>Abrir &amp;URI...</translation>
     </message>
     <message>
-        <source>Open a dash: URI or payment request</source>
-        <translation>Abre um dash: URI ou solicitação de pagamento</translation>
+        <source>Open a lake: URI or payment request</source>
+        <translation>Abre um lake: URI ou solicitação de pagamento</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1259,9 +1259,9 @@ Endereço: %4
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/projects/p/dash/</source>
+https://www.transifex.com/projects/p/lake/</source>
         <translation>Linguagem não encontrada ou tradução incompleta? Ajude a traduzir aqui:
-https://www.transifex.com/projects/p/dash/</translation>
+https://www.transifex.com/projects/p/lake/</translation>
     </message>
     <message>
         <source>User Interface Theme:</source>
@@ -1564,8 +1564,8 @@ https://www.transifex.com/projects/p/dash/</translation>
         <translation>Erro na solicitação de pagamento</translation>
     </message>
     <message>
-        <source>Cannot start dash: click-to-pay handler</source>
-        <translation>Não é possível iniciar o dash: click-to-pay handler</translation>
+        <source>Cannot start lake: click-to-pay handler</source>
+        <translation>Não é possível iniciar o lake: click-to-pay handler</translation>
     </message>
     <message>
         <source>URI handling</source>
@@ -2543,8 +2543,8 @@ https://www.transifex.com/projects/p/dash/</translation>
         <translation>Mensagem:</translation>
     </message>
     <message>
-        <source>A message that was attached to the dash: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Lake network.</source>
-        <translation>Mensagem que foi anexada ao dash: URI e que será guardada com a transacção para sua referência. Nota: Esta mensagem não será enviada para a rede Lake.</translation>
+        <source>A message that was attached to the lake: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Lake network.</source>
+        <translation>Mensagem que foi anexada ao lake: URI e que será guardada com a transacção para sua referência. Nota: Esta mensagem não será enviada para a rede Lake.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -3304,7 +3304,7 @@ https://www.transifex.com/projects/p/dash/</translation>
     </message>
 </context>
 <context>
-    <name>dash-core</name>
+    <name>lake-core</name>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>
         <translation>Vincular a um determinado endereço e ouvir sempre aí. Use a notação [endereço]:porta para IPv6</translation>

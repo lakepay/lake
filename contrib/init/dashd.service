@@ -3,13 +3,13 @@ Description=Lake's distributed currency daemon
 After=network.target
 
 [Service]
-User=dashcore
-Group=dashcore
+User=lakecore
+Group=lakecore
 
 Type=forking
-PIDFile=/var/lib/dashd/dashd.pid
-ExecStart=/usr/bin/dashd -daemon -pid=/var/lib/dashd/dashd.pid \
--conf=/etc/dashcore/dash.conf -datadir=/var/lib/dashd -disablewallet
+PIDFile=/var/lib/laked/laked.pid
+ExecStart=/usr/bin/laked -daemon -pid=/var/lib/laked/laked.pid \
+-conf=/etc/lakecore/lake.conf -datadir=/var/lib/laked -disablewallet
 
 Restart=always
 PrivateTmp=true

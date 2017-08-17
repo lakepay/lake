@@ -1,9 +1,9 @@
 Lake Core staging tree 0.12.1
 ===============================
 
-`master:` [![Build Status](https://travis-ci.org/lakepay/dash.svg?branch=master)](https://travis-ci.org/lakepay/dash) `v0.12.0.x:` [![Build Status](https://travis-ci.org/lakepay/dash.svg?branch=v0.12.0.x)](https://travis-ci.org/lakepay/dash/branches) `v0.12.1.x:` [![Build Status](https://travis-ci.org/lakepay/dash.svg?branch=v0.12.1.x)](https://travis-ci.org/lakepay/dash/branches)
+`master:` [![Build Status](https://travis-ci.org/lakepay/lake.svg?branch=master)](https://travis-ci.org/lakepay/lake) `v0.12.0.x:` [![Build Status](https://travis-ci.org/lakepay/lake.svg?branch=v0.12.0.x)](https://travis-ci.org/lakepay/lake/branches) `v0.12.1.x:` [![Build Status](https://travis-ci.org/lakepay/lake.svg?branch=v0.12.1.x)](https://travis-ci.org/lakepay/lake/branches)
 
-https://www.dash.org
+https://www.lake.org
 
 
 What is Lake?
@@ -16,7 +16,7 @@ are carried out collectively by the network. Lake Core is the name of the open
 source software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Lake Core software, see https://www.dash.org/get-dash/.
+the Lake Core software, see https://www.lake.org/get-lake/.
 
 
 License
@@ -66,7 +66,7 @@ Translations
 ------------
 
 Changes to translations as well as new translations can be submitted to
-[Lake Core's Transifex page](https://www.transifex.com/projects/p/dash/).
+[Lake Core's Transifex page](https://www.transifex.com/projects/p/lake/).
 
 Translations are periodically pulled from Transifex and merged into the git repository. See the
 [translation process](doc/translation_process.md) for details on how this works.
@@ -74,4 +74,4 @@ Translations are periodically pulled from Transifex and merged into the git repo
 **Important**: We do not accept translation changes as GitHub pull requests because the next
 pull from Transifex would automatically overwrite them again.
 
-Translators should also follow the [forum](https://www.dash.org/forum/topic/dash-worldwide-collaboration.88/).
+Translators should also follow the [forum](https://www.lake.org/forum/topic/lake-worldwide-collaboration.88/).

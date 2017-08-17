@@ -9,7 +9,7 @@
 #include <vector>
 
 /**
- * CBaseChainParams defines the base parameters (shared between dash-cli and dashd)
+ * CBaseChainParams defines the base parameters (shared between lake-cli and laked)
  * of a given instance of the Lake system.
  */
 class CBaseChainParams

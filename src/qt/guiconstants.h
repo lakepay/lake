@@ -48,7 +48,7 @@ static const int MAX_URI_LENGTH = 255;
 #define SPINNER_FRAMES 36
 
 #define QAPP_ORG_NAME "Lake"
-#define QAPP_ORG_DOMAIN "dash.org"
+#define QAPP_ORG_DOMAIN "lake.org"
 #define QAPP_APP_NAME_DEFAULT "Lake-Qt"
 #define QAPP_APP_NAME_TESTNET "Lake-Qt-testnet"
 
