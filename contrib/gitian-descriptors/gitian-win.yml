@@ -1,5 +1,5 @@
 ---
-name: "lake-win-1.0.0.3"
+name: "lake-win-1.0.0.4"
 enable_cache: true
 suites:
 - "trusty"
