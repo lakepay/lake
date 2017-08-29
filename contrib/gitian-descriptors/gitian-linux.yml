@@ -1,5 +1,5 @@
 ---
-name: "lake-linux-1.0.0.4"
+name: "lake-linux-1.0.1.1"
 enable_cache: true
 suites:
 - "trusty"
