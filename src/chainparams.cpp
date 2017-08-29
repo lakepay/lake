@@ -123,8 +123,8 @@ public:
 
         genesis = CreateGenesisBlock(1504074600, 1674937, 0x1e0ffff0, 1, 50 * COIN);
         consensus.hashGenesisBlock = genesis.GetHash();
-        assert(consensus.hashGenesisBlock == uint256S("0x00000ffae7fb1c2887a8133190f5dcb410dfe5243e13386d20500c8f584638cc"));
-        assert(genesis.hashMerkleRoot == uint256S("0x9dd4e8dec89254eeb63dfa8107b351ee1620fd826d0555c4d9747d14fcbc4fcb"));
+        assert(consensus.hashGenesisBlock == uint256S("0x00000a7ff84f3a03110b6e195324b31c98030ae06b328521a8f16541867cbfc3"));
+        assert(genesis.hashMerkleRoot == uint256S("0xb6839944a1cecf5e47e6c25966ad2071308f1632fffdbf5885c94928b84ad74d"));
 
 
         vSeeds.push_back(CDNSSeedData("lake.auto.3-a.net", "dnsseed.auto.3-a.net"));  //vSeeds.clear(); 
